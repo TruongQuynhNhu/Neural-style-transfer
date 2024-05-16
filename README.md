@@ -14,6 +14,9 @@ We will generate an image of the Eiffel Tower at night with a style reminiscent 
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Eiffel_Tower_at_night%2C_Paris_24_June_2021_03.jpg/479px-Eiffel_Tower_at_night%2C_Paris_24_June_2021_03.jpg?20210705140135)
 
+![alt text]<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1024px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" alt="alt text" width="0.5">
+
+
 Source: 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1024px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg
