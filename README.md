@@ -42,7 +42,7 @@ Images from epochs 10, 20, and 30 are displayed below. While the style may not b
 
 <img width="713" alt="image" src="https://github.com/TruongQuynhNhu/Neural-style-transfer/assets/107611691/dc1814ba-911a-49dd-8339-cdd50cc32853">
 
-Inside content loss and style loss, we have the normalized constant for each loss layer. Which is: $\frac{1}{4 \times n_H \times n_W \times n_C}$ and $ \frac{1}{4 \times {n_C}^2 \times (n_H \times n_W)^2}$. They are not really important because after that, we also have weight of each layer (layer_weight of layer [l]: $\lambda^{[l]}$) and the weight of content loss and style loss in the total loss ($\alpha$ and $\beta$). However, I recognize that, using it would make the loss being normalized to properly similar scale, then after it would be easier for us to inteprete and fine-tune the other hyper parameter to get our desired result.
+Inside content loss and style loss, we have the normalized constant for each loss layer. Which is: $\frac{1}{4 \times n_H \times n_W \times n_C}$ and $\frac{1}{4 \times {n_C}^2 \times (n_H \times n_W)^2}$. They are not really important because after that, we also have weight of each layer (layer_weight of layer $[l]$: $\lambda^{[l]}$) and the weight of content loss and style loss in the total loss ($\alpha$ and $\beta$). However, I recognize that, using it would make the loss being normalized to properly similar scale, then after it would be easier for us to inteprete and fine-tune the $\lambda^{[l]}$), $\alpha$ and $\beta$ to get our desired result.
 
 
 ## 5. Citation
